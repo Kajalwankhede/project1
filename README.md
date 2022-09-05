@@ -7,3 +7,6 @@
 
 This repository is for practice.
 
+For system configuration git config --global user.email johndoe@example.com
+
+
